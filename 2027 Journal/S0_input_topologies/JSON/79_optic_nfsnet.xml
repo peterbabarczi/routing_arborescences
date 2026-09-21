@@ -1,0 +1,24 @@
+<Simulator>
+	<Algorithm>pra</Algorithm>
+	<Network>
+		<TopologyName>../../S0_input_topologies/JSON/79_optic_nfsnet</TopologyName>
+		<NodeNum>79</NodeNum>
+		<EdgeNum>108</EdgeNum>
+	</Network>
+	<Statistics>
+	</Statistics>
+	<TotalTestedPermutations>10392</TotalTestedPermutations>
+	<TotalAllPermutations>21598</TotalAllPermutations>
+	<OverallShortestPathLength>6.57352</OverallShortestPathLength>
+	<OverallMinimumEdgeDisjointPathStretch>1.03225</OverallMinimumEdgeDisjointPathStretch>
+	<OverallMinimumArborescencePathStretch>1.24443</OverallMinimumArborescencePathStretch>
+	<OverallAverageEdgeDisjointPathStretch>1.48836</OverallAverageEdgeDisjointPathStretch>
+	<OverallAverageArborescencePathStretch>2.07741</OverallAverageArborescencePathStretch>
+	<OverallMaximumEdgeDisjointPathStretch>1.99093</OverallMaximumEdgeDisjointPathStretch>
+	<OverallMaximumArborescencePathStretch>3.03197</OverallMaximumArborescencePathStretch>
+	<MaxThreadNumber>8</MaxThreadNumber>
+	<TotalRunningTime>20.5385</TotalRunningTime>
+	<TotalRunningTimeChrono>3.09214</TotalRunningTimeChrono>
+	<AvgRunningTimePerRoot>0.259981</AvgRunningTimePerRoot>
+	<AvgRunningTimePerRootChrono>0.039141</AvgRunningTimePerRootChrono>
+</Simulator>

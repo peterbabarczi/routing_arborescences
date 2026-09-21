@@ -1,0 +1,21 @@
+<Simulator>
+	<Algorithm>pra</Algorithm>
+	<Network>
+		<TopologyName>../../S0_input_topologies/LGF/37_european</TopologyName>
+		<NodeNum>37</NodeNum>
+		<EdgeNum>57</EdgeNum>
+	</Network>
+	<Statistics>
+	</Statistics>
+	<TotalTestedPermutations>2308</TotalTestedPermutations>
+	<TotalAllPermutations>8471</TotalAllPermutations>
+	<OverallShortestPathLength>3.73874</OverallShortestPathLength>
+	<OverallMinimumEdgeDisjointPathStretch>1.02541</OverallMinimumEdgeDisjointPathStretch>
+	<OverallMinimumArborescencePathStretch>1.23069</OverallMinimumArborescencePathStretch>
+	<OverallAverageEdgeDisjointPathStretch>1.56018</OverallAverageEdgeDisjointPathStretch>
+	<OverallAverageArborescencePathStretch>2.10614</OverallAverageArborescencePathStretch>
+	<OverallMaximumEdgeDisjointPathStretch>2.12996</OverallMaximumEdgeDisjointPathStretch>
+	<OverallMaximumArborescencePathStretch>3.05524</OverallMaximumArborescencePathStretch>
+	<TotalRunningTime>0.987354</TotalRunningTime>
+	<AvgRunningTimePerRoot>0.0266852</AvgRunningTimePerRoot>
+</Simulator>
