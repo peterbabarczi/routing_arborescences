@@ -10,6 +10,8 @@
 #include <string>
 #include <thread>
 #include <chrono>
+#include <climits>
+#include <sys/resource.h>
 
 #include <lemon/core.h>
 #include <lemon/adaptors.h>
